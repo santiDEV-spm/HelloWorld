@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Welcome Android</string>
     <string name="greetings">Hello World!</string>
+    <string name="hello_button">Say Hello</string>
+    <string name="textview">TextView</string>
 </resources>
